@@ -6,4 +6,7 @@ itpub http://www.itpub.net/<br>
 DBAplus http://dbaplus.cn/<br>
 #book
 http://search.jd.com/Search?keyword=oralce&enc=utf-8&wq=oralce&pvid=p27nj8xi.ravz7m jd搜索"oralce"<br>
-
+#博客
+http://www.eygle.com/<br>
+http://blog.csdn.net/robinson1988/<br>
+http://blog.csdn.net/tianlesoftware<br>
