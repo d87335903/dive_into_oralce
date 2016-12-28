@@ -10,3 +10,4 @@ http://search.jd.com/Search?keyword=oralce&enc=utf-8&wq=oralce&pvid=p27nj8xi.rav
 http://www.eygle.com/<br>
 http://blog.csdn.net/robinson1988/<br>
 http://blog.csdn.net/tianlesoftware<br>
+http://www.cnblogs.com/kerrycode 潇湘隐者<br>
