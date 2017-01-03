@@ -9,6 +9,7 @@ Oracle 数据库高级运维技术管理班    http://www.lthack.com/forum.php
 #网站
 itpub http://www.itpub.net/<br>
 DBAplus http://dbaplus.cn/<br>
+ACOUG http://www.acoug.org/<br>
 #book
 http://search.jd.com/Search?keyword=oralce&enc=utf-8&wq=oralce&pvid=p27nj8xi.ravz7m jd搜索"oralce"<br>
 #博客
