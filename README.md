@@ -20,3 +20,6 @@ http://www.cnblogs.com/kerrycode 潇湘隐者<br>
 http://www.askmaclean.com/  Maclean Liu 刘相兵<br>
 http://blog.csdn.net/bisal/article/category/1523281/14 可以涮的博客系列<br>
 https://alexzeng.wordpress.com/  A Database Engineer's blog<br>
+
+#我的书单
+Oracle查询优化改写技巧与案例<br>
